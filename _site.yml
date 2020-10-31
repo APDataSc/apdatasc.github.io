@@ -2,7 +2,7 @@ name: "R Markdown Websites Tutorial"
 navbar:
   title: "HOME"
   left:
-    - text: "First Observations"
+    - text: "Primeras observaciones"
       href: first_observations.html
     - text: "Basic Workflow"
       href: basic_workflow.html
@@ -10,7 +10,7 @@ navbar:
       href: getting_sophisticated.html
     - text: "Your Turn"
       href: your_turn.html
-    - text: "About"
+    - text: "CV - Andrés Peña M."
       href: about.html
 output_dir: "."
 output:
